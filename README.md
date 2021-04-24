@@ -27,10 +27,14 @@
 
 #### How to use your library (where applicable)
 
+- i had alot of issues with this there being no wway to actually see whats wrong untill it gets to aws land....seems most of this had to do with what version of llinix64 you were running and somewhere in there that made the whole thing stick up for a bit...
+
 #### Tests
 
 - How do you run tests?
+- they are in aws
 - Any tests of note?
+- nope
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
